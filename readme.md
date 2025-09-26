@@ -1,7 +1,10 @@
-# Repositorio Demostrativo
-Este respositorio simula la interactividad como si trabajara con Google Colab
-##
-###
-####
-#####
-######
+# Repositorio Topicos Especiales
+
+Lenguajes de Programación para Volumenes de Datos
+
+## Lenguaje Programación
+
+    Python
+
+### Autor
+Derechos reservados ® Arnold Michell Ocas Ruiz
